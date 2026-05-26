@@ -1,12 +1,20 @@
-Preview of the password generator window itself.
+<div align="center">
 
-<img width="596" height="228" alt="image" src="https://github.com/user-attachments/assets/b364806c-0b16-4455-a3d8-f768e8624b05" />
+# password-generator-tkinter
 
-After entering the number of characters, the program generates a password:
+Генератор пароля с анимацией генерации, сделанный на Python с помошью модуля **tkinter**
 
-<img width="597" height="227" alt="image" src="https://github.com/user-attachments/assets/a7d336c7-610c-4fdd-afca-3f2798a6ada6" />
+Подробнее об этом модуле: <a href="https://docs.python.org/3/library/tkinter.html">tkinter</a>
 
-Then it outputs the password itself.
+**Интерфейс генератора пароля:**
 
-<img width="595" height="230" alt="image" src="https://github.com/user-attachments/assets/5d928d9e-e006-456b-80f9-68cbede9b0c9" />
+<img width="596" height="228" alt="image" src="https://github.com/user-attachments/assets/673b83b3-f4dc-4de0-a4f7-c02184b88929" />
+
+<img width="597" height="227" alt="image" src="https://github.com/user-attachments/assets/e4ac6ca9-a5f5-4dfb-a37c-980d2d4c995a" />
+
+<img width="595" height="230" alt="image" src="https://github.com/user-attachments/assets/56a4de5c-7dd8-4a13-bff9-e152c635e6bc" />
+
+
+**У калькулятора меньший функционал, возможно в будущем сделаю полноценную версию калькулятора apple))**
+</div>
 
