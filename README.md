@@ -13,8 +13,5 @@
 <img width="597" height="227" alt="image" src="https://github.com/user-attachments/assets/e4ac6ca9-a5f5-4dfb-a37c-980d2d4c995a" />
 
 <img width="595" height="230" alt="image" src="https://github.com/user-attachments/assets/56a4de5c-7dd8-4a13-bff9-e152c635e6bc" />
-
-
-**У калькулятора меньший функционал, возможно в будущем сделаю полноценную версию калькулятора apple))**
 </div>
 
