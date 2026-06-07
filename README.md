@@ -2,11 +2,11 @@
 
 # password-generator-tkinter
 
-Генератор пароля с анимацией генерации, сделанный на Python с помошью модуля **tkinter**
+Password generator with animation generation, made in Python with the help of the **tkinter module**
 
-Подробнее об этом модуле: <a href="https://docs.python.org/3/library/tkinter.html">tkinter</a>
+More about this module: <a href="https://docs.python.org/3/library/tkinter.html">tkinter</a>
 
-**Интерфейс генератора пароля:**
+**Password Generator Interface:**
 
 <img width="596" height="228" alt="image" src="https://github.com/user-attachments/assets/673b83b3-f4dc-4de0-a4f7-c02184b88929" />
 
